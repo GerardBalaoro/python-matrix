@@ -46,5 +46,5 @@ print(mat.getRows())
 
 ## Properties
 
-	* **numRows** - Total number of rows
-	* **numColumns** - Total number of columns
+* **numRows** - Total number of rows
+* **numColumns** - Total number of columns
